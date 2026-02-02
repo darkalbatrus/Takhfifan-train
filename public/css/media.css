@@ -9,7 +9,7 @@
 /* 1200px */
 @media screen and (max-width: 75em) {
   .header_top_search {
-    width: 400px;
+    width: 40rem;
   }
   .header_bottom_right > .header_bottom_list > li:not(:first-child) {
     display: none;
